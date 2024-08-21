@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "CV"
+    url: /download/cv.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Talks"
+    url: /talks/
+  - title: "Code"
+    url: /code/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Outreach"
+    url: /outreach/
+
