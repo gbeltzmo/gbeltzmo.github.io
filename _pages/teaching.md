@@ -39,7 +39,7 @@ toc: true
 * Whitin Observatory Night Assistant (Fall 2012 - Spring 2016)
   * At Wellesley students had the option to take Introductory Astronomy with or without the weekly lab section. If they chose the no-lab option, they were still required to visit the observatory a few times during the semester to learn the constellations and use the telescopes. As a Night Assistant, my job was to lead these observing sessions. Weather permitting, I taught students the names of the visible constellations and stars, demonstrated the use of Whitin Observatory's 12 and 6-inch refracting telescopes, and showed students any nebulae, clusters, or planets that could be seen through the telescopes on a particular night. 
 
-### Mentoring
+# Mentoring
 * DESI Mentorship Program (Fall 2023 - Present)
 * GEM Fellowship Program, Argonne National Laboratory (Summer 2023)
   * I mentored a visiting graduate student in the GEM Fellowship program for 13 weeks. Over the course of the fellowship program, I helped my student develop a gradient descent pipeline in Jax for forward modeling galaxy SEDs.
