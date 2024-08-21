@@ -15,9 +15,9 @@ I thoroughly enjoy performing public outreach, and have been participating in va
 
 Here are a few of the outreach activities I have enjoyed over the years:
 * Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
-  * Panelist for Women in STEM panel, as part of a broader event aimed at teaching high school girls about careers in science.
+  * I served as a panelist on a Women in STEM panel, as part of a broader event aimed at teaching high school girls about careers in science.
 * Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
-  * Led a python workshop, participated in Q&A sessions, panel discussions, and networking opportunities with students.  
+  * I led a python workshop, participated in Q&A sessions, panel discussions, and networking opportunities with students.  
 * AAS Congressional Visits Day (virtual) (September 2020)
   * On behalf of the American Astronomical soceity, I scheduled meetings with my state representatives and spoke with them to advocate for the importance of funding scientific research.
 * Science Day with Nashville Girl Scouts (March 2019)

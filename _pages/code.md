@@ -7,7 +7,7 @@ toc: true
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/aurora.jpg
+  overlay_image: /_images/cosmicweb.jpg
   overlay_filter: 0.3
 ---
 

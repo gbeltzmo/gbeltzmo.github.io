@@ -7,7 +7,7 @@ toc: true
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/obsroof.jpg
+  overlay_image: /_images/whitin.jpg
   overlay_filter: 0.5
 toc: true
 ---
@@ -41,7 +41,6 @@ toc: true
 
 ### Mentoring
 * DESI Mentorship Program (Fall 2023 - Present)
-  * I serve as a mentor for students in the DESI Collaboration. 
 * GEM Fellowship Program, Argonne National Laboratory (Summer 2023)
   * I mentored a visiting graduate student in the GEM Fellowship program for 13 weeks. Over the course of the fellowship program, I helped my student develop a gradient descent pipeline in Jax for forward modeling galaxy SEDs.
 * Harpeth Hall High School STEM Research Program, Nashville, TN (Fall 2017 – Spring 2019)

@@ -2,12 +2,12 @@
 permalink: /talks/
 layout: single
 author_profile: true
-title: "Data"
+title: "Talks"
 toc: true
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/desi_survey.jpg
+  overlay_image: /_images/desi.jpg
   overlay_filter: 0.3
 ---
 

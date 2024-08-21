@@ -7,7 +7,7 @@ toc: true
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/desi.png
+  overlay_image: /_images/desi_survey.jpg
   overlay_filter: 0.3
 ---
 
