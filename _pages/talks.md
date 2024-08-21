@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.3
 ---
 
-Here is a list of recent talks I have given.
+# Recent Talks
 
 ### 2024
 
