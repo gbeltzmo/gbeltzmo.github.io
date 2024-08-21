@@ -16,35 +16,35 @@ toc: true
 
 ### Conference for Undergraduate Women in Physics at Argonne National Laboratory
 * Python Workshop (January 2023)
-  * I developed and led two python workshops during the conference. I taught students Python basics, introduced them to the concept of galaxy redshift surveys and galaxy clustering, and helped them work through a Python notebook in which they loaded, plotted, and analyzed real data from SDSS.
+  * Developed and led two python workshops during the conference; taught students Python basics, introduced them to the concept of galaxy redshift surveys and galaxy clustering, and helped them work through a Python notebook in which they loaded, plotted, and analyzed real data from SDSS
 
 ### Vanderbilt University
 * Astronomy 1010, Introductory Astronomy: Stars and Galaxies
   * Introductory Nighttime Astronomy Lab Instructor (Fall 2016, Spring 2017)
   * Introductory Daytime Astronomy Lab Instructor (Fall 2017, Spring 2018, Fall 2018, Spring 2019)
-    * As a lab instructor, I lead a weekly 3 hour lab during which I taught a brief lesson and then helped students complete the lab assignment. Throughout the semester, I taught students to use 8 inch telescopes, clarified important concepts from both the lab and the lecture, graded labs and lecture exams, and guided students on a mini research project and poster session. I also continually worked to develop and improve the lab materials. (10 hours per week)
+    * Led a weekly 3 hour lab during which I taught a brief lesson and then helped students complete the lab assignment; taught students to use 8 inch telescopes, clarified important concepts from both the lab and the lecture, graded labs and lecture exams, and guided students on a mini research project and poster session; helped develop and improve lab course materials (10 hours per week)
   * Astronomy Tutor (Fall 2016)
-    * I worked as a private tutor for Introductory Astronomy, helping students with homework assignments and exam preparation. (2 hours per week)
+    * Private tutor for Introductory Astronomy; helped students with homework assignments and exam preparation (2 hours per week)
 * Summer Academy at Vanderbilt for the Young (Summer 2017)
   * Computational Astrophysics: Coding the Universe 
-    * I helped develop material for a week-long course for middle school students to learn VPython and build their own solar system simulation.
+    * Helped develop material for a week-long course for middle school students to learn VPython and build their own solar system simulation
 
 ### Wellesley College
 * Physics 107, Principles and Applications of Mechanics with Laboratory
   * Supplemental Instruction Leader (Fall 2014, Fall 2015, Spring 2016)
-    * As a Supplemental Instruction Leader, I assisted in lectures and lab, created additional course material, and held supplemental lessons twice per week to go over material from lecture, clarify concepts, answer questions, and work on practice problems with students. (10 hours per week)
+    * Assisted in lectures and lab, created additional course material, and held supplemental lessons twice per week to go over material from lecture, clarify concepts, answer questions, and work on practice problems with students (10 hours per week)
 * Physics Tutor (Fall 2013, Spring 2014, Fall 2014, Fall 2015, Spring 2016)
   * Introductory Physics courses: Fundamentals of Mechanics; Fundamentals of Electricity, Magnetism, and Optics; Principles and Applications of Mechanics; Principles and Applications of Electricity and Magnetism
-    * As a physics tutor, I held weekly office hours and met with students individually to answer questions and help with homework or exam preparation. (4 hours per week)
+    * Held weekly office hours and met with students individually to answer questions and help with homework or exam preparation (4 hours per week)
 * Whitin Observatory Night Assistant (Fall 2012 - Spring 2016)
-  * At Wellesley students had the option to take Introductory Astronomy with or without the weekly lab section. If they chose the no-lab option, they were still required to visit the observatory a few times during the semester to learn the constellations and use the telescopes. As a Night Assistant, my job was to lead these observing sessions. Weather permitting, I taught students the names of the visible constellations and stars, demonstrated the use of Whitin Observatory's 12 and 6-inch refracting telescopes, and showed students any nebulae, clusters, or planets that could be seen through the telescopes on a particular night. 
+  * Led weekly observing sessions (weather permitting) for students in introductory astronomy courses; taught students the names of constellations and stars, demonstrated the use of Whitin Observatory's 12 and 6-inch refracting telescopes, and showed students any nebulae, clusters, or planets that could be seen through the telescopes on a particular night (1-2 hours per week) 
 
 # Mentoring
 * DESI Mentorship Program (Fall 2023 - Present)
 * GEM Fellowship Program, Argonne National Laboratory (Summer 2023)
-  * I mentored a visiting graduate student in the GEM Fellowship program for 13 weeks. Over the course of the fellowship program, I helped my student develop a gradient descent pipeline in Jax for forward modeling galaxy SEDs.
+  * Mentored a visiting graduate student in the GEM Fellowship program for 13 weeks; helped the student develop a gradient descent pipeline in Jax for forward modeling galaxy SEDs
 * Harpeth Hall High School STEM Research Program, Nashville, TN (Fall 2017 – Spring 2019)
-  * I mentored a high school student for two years on an individual research project measuring the rotation of galaxy groups in SDSS. I taught her the basics of galaxy redshift surveys, galaxy clusters and group, and statistical analysis, as well as how to analyze data and make plots in Python. This student was the 1st place winner at the Middle Tennessee Science & Engineering Fair in 2018 and 2019.
+  * Mentored a high school student for two years on an individual research project measuring the rotation of galaxy groups in SDSS; taught her the basics of galaxy redshift surveys, galaxy clusters and group, and statistical analysis, as well as how to analyze data and make plots in Python; student was the 1st place winner at the Middle Tennessee Science & Engineering Fair in 2018 and 2019.
 
 
 # Selected Student Comments

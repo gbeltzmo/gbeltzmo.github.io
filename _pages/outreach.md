@@ -15,16 +15,16 @@ I thoroughly enjoy performing public outreach, and have been participating in va
 
 Here are a few of the outreach activities I have enjoyed over the years:
 * Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
-  * I served as a panelist on a Women in STEM panel, as part of a broader event aimed at teaching high school girls about careers in science.
+  * Panelist on a Women in STEM panel
 * Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
-  * I led a python workshop, participated in Q&A sessions, panel discussions, and networking opportunities with students.  
+  * Led a python workshop; participated in Q&A sessions, panel discussions, and networking opportunities with students  
 * AAS Congressional Visits Day (virtual) (September 2020)
-  * On behalf of the American Astronomical soceity, I scheduled meetings with my state representatives and spoke with them to advocate for the importance of funding scientific research.
+  * Scheduled meetings with my state representatives and spoke with them to advocate for the importance of funding scientific research
 * Science Day with Nashville Girl Scouts (March 2019)
-  * I spent the morning teaching the girls to build bottle rockets, and then spent the afternoon explaining what it's like to be an astronomer and answering questions about my career and astronomy in general.
+  * Built bottle rockets and explained my job as an astronomer 
 * Meet the Astronomer Night at Dyer Observatory (October 2018)
-  * I gave a public talk about the standard model of cosmology, how we model galaxy clustering, and what galaxy clustering can tell us about the nature of dark matter and dark energy. 
+  * Gave a public talk about the standard model of cosmology, how we model galaxy clustering, and what galaxy clustering can tell us about the nature of dark matter and dark energy
 * Vanderbilt Student Volunteers for Science (Fall 2016)
-  * As a volunteer for VSVS I visited middle school classes throughout the semester to teach a variety of chemistry and physics lessons and give fun science demonstrations.
+  * Visited middle school classes throughout the semester to teach a variety of chemistry and physics lessons and give fun science demonstrations
 * Whitin Observatory Volunteer, Wellesley College (Fall 2012 - Spring 2016)
-  * As a volunteer, I helped organize, advertise, and lead public nights several times per semester. At these public nights, I gave observatory tours, telescope demonstrations, and frequently gave public talks to guests of all ages.
+  * Organized, advertised, and led public nights several times per semester; gave observatory tours, telescope demonstrations, and public talks to guests of all ages
