@@ -13,11 +13,13 @@ header:
 
 # Experience
 
-I mostly write code in Python, occasionally C. In the past few years I have become very familiar with Jax, a Python library for array-oriented numerical computation, with automatic differentiation and JIT compilation to enable high-performance on GPUs. I have substantial experience working with various sampling and optimization methods in high-dimensional parameter space, and I have some machine-learning experience (mostly using Python's scikit-learn library). I also am adept at working with big data sets and running applications in parallel on large super computers. I have significant experience running cosmological N-body simulations using the [GADGET-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/) simulation code, as well as generating linear power spectra with [CAMB](https://camb.readthedocs.io/en/latest/), creating initial conditions with 2nd order Lagrangian Perturbation Theory ([2LPTic](https://cosmo.nyu.edu/roman/2LPT/)), and identifying halos with [ROCKSTAR](https://bitbucket.org/gfcstanford/rockstar/src/main/).
+I mostly write code in Python, occasionally C. In the past few years I have become very familiar with Jax, a Python library for array-oriented numerical computation, with automatic differentiation and JIT compilation to enable high-performance on GPUs. I have substantial experience working with various sampling and optimization methods in high-dimensional parameter space, and I have some machine-learning experience (mostly using Python's scikit-learn library).
+
+I am adept at working with big data sets and running applications in parallel on large super computers. I have significant experience running cosmological N-body simulations using the [GADGET-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/) simulation code, as well as generating linear power spectra with [CAMB](https://camb.readthedocs.io/en/latest/), creating initial conditions with 2nd order Lagrangian Perturbation Theory ([2LPTic](https://cosmo.nyu.edu/roman/2LPT/)), and identifying halos with [ROCKSTAR](https://bitbucket.org/gfcstanford/rockstar/src/main/).
 
 I served as the Allocation Manager for the Large Suite of Dark Matter Simulations (LasDamas) Project on [XSEDE](https://www.xsede.org/) from 2017-2022.
 
-# Tools 
+Here are some open-source codes that I have worked on:
 
 ## diffsky
 
