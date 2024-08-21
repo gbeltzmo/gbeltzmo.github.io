@@ -36,7 +36,7 @@ Here is a list of recent talks I have given.
 * "Can we ignore baryons in halo modeling?," Galaxy Lunch Seminar, Yale University, March 2021
 
 ### 2020
-* "HMF Discrepancies between Hydrodynamic and DMO Simulations," KITP Workshop, UC Santa Barbara, August 2020</li>
-* "Taking Halo Modeling to the Next Level," Galaxy-halo Connection Workshop, Universitaet Innsbruck, March 2020</li>
+* "HMF Discrepancies between Hydrodynamic and DMO Simulations," KITP Workshop, UC Santa Barbara, August 2020
+* "Taking Halo Modeling to the Next Level," Galaxy-halo Connection Workshop, Universitaet Innsbruck, March 2020
 
 
