@@ -14,6 +14,10 @@ header:
 I thoroughly enjoy performing public outreach, and have been participating in various science outreach activities since I started college in 2012. Not only do I find it fun and rewarding to share my love of science with people, but I also think outreach is vitally important for making science accessible to the public and for building a more diverse and inclusive STEM community.
 
 Here are a few of the outreach activities I have enjoyed over the years:
+* Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
+  * Panelist for Women in STEM panel, as part of a broader event aimed at teaching high school girls about careers in science.
+* Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
+  * Led a python workshop, participated in Q&A sessions, panel discussions, and networking opportunities with students.  
 * AAS Congressional Visits Day (virtual) (September 2020)
   * On behalf of the American Astronomical soceity, I scheduled meetings with my state representatives and spoke with them to advocate for the importance of funding scientific research.
 * Science Day with Nashville Girl Scouts (March 2019)
