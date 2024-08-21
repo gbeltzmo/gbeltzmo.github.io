@@ -15,7 +15,7 @@ header:
 
 I mostly write code in Python, occasionally C. In the past few years I have become very familiar with Jax, a Python library for array-oriented numerical computation, with automatic differentiation and JIT compilation to enable high-performance on GPUs. I have substantial experience working with various sampling and optimization methods in high-dimensional parameter space, and I have some machine-learning experience (mostly using Python's scikit-learn library). I also am adept at working with big data sets and running applications in parallel on large super computers. I have significant experience running cosmological N-body simulations using the [GADGET-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/) simulation code, as well as generating linear power spectra with [CAMB](https://camb.readthedocs.io/en/latest/), creating initial conditions with 2nd order Lagrangian Perturbation Theory ([2LPTic](https://cosmo.nyu.edu/roman/2LPT/)), and identifying halos with [ROCKSTAR](https://bitbucket.org/gfcstanford/rockstar/src/main/).
 
-As a graduate student, I served as the Allocation Manager for the Large Suite of Dark Matter Simulations (LasDamas) Project on [XSEDE](https://www.xsede.org/) from 2017-2022.
+I served as the Allocation Manager for the Large Suite of Dark Matter Simulations (LasDamas) Project on [XSEDE](https://www.xsede.org/) from 2017-2022.
 
 # Tools 
 
@@ -36,5 +36,5 @@ In [Beltz-Mohrmann et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210
 
 I have also contributed to the following public codes:
 
-* [Corrfunc](https://github.com/manodeep/Corrfunc)
-* [diffmah](https://github.com/ArgonneCPAC/diffmah)
+* [Corrfunc](https://github.com/manodeep/Corrfunc): a suite of codes to calculate correlation functions and other clustering statistics for simulated and observed galaxies
+* [diffmah](https://github.com/ArgonneCPAC/diffmah): a differentiable model for the mass assembly history of individual and populations of dark matter halos
