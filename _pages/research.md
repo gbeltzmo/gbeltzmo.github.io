@@ -22,7 +22,7 @@ My thesis work focused on accurately modeling the small-scale clustering of gala
 
 # First and Second Author Publications
 
-Total citations: 92
+Total citations: 97
 
 6. [Toward Accurate Modeling of Galaxy Clustering on Small Scales: Halo Model Extensions and Lingering Tension](https://ui.adsabs.harvard.edu/abs/2023ApJ...948..100B/abstract), __Beltz-Mohrmann, G. D.__, Szewciw, A. O., Berlind, A. A., Sinha, M., 2023, _The Astrophysical Journal_, 948(2):100, arXiv:2211.16105
 5. [Toward Accurate Modeling of Galaxy Clustering on Small Scales: Constraining the Galaxy-Halo Connection with Optimal Statistics](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...15S/abstract), Szewciw, A. O., __Beltz-Mohrmann, G. D.__, Berlind, A. A., Sinha, M., 2022, _The Astrophysical Journal_, 926(1):15, arXiv:2110.03701
