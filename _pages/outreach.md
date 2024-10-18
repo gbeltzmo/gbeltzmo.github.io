@@ -28,3 +28,9 @@ Here are a few of the outreach activities I have enjoyed over the years:
   * Visited middle school classes throughout the semester to teach a variety of chemistry and physics lessons and give fun science demonstrations
 * Whitin Observatory Volunteer, Wellesley College (Fall 2012 - Spring 2016)
   * Organized, advertised, and led public nights several times per semester; gave observatory tours, telescope demonstrations, and public talks to guests of all ages
+
+
+In the media:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gPJeqmQtc_M?si=92EmhgkaKgNcKQIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
