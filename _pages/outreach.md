@@ -13,7 +13,7 @@ header:
 
 I have been participating in various science outreach activities since I started college in 2012. Not only do I find it fun and rewarding to share my love of science with people, but I also think outreach is vitally important for making science accessible to the public and for building a more diverse and inclusive STEM community.
 
-Here are a few of the outreach activities I have enjoyed over the years:
+### Selected Outreach
 * Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
   * Panelist on a Women in STEM panel
 * Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
@@ -30,7 +30,7 @@ Here are a few of the outreach activities I have enjoyed over the years:
   * Organized, advertised, and led public nights several times per semester; gave observatory tours, telescope demonstrations, and public talks to guests of all ages
 
 
-In the media:
+### In the media:
 
 Podcast Episode: [Particle Mysteries: The Coldest Case - "Chasing Shadows"](https://www.interactions.org/dark-matter-day/podcast)
 
