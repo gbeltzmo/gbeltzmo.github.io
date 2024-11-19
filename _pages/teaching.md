@@ -14,7 +14,7 @@ toc: true
 
 # Teaching
 
-* ["Gradient Descent Optimization"](https://colab.research.google.com/drive/12XGZm7ouYnv_EUn9IRp_lM8QPxWUjeiH?usp=sharing)
+* ["Gradient Descent Optimization"](https://colab.research.google.com/drive/1PYwfMG3lJo7-hjKpTj8FGy09MFMCBeNZ?usp=sharing)
 
 
 ### Conference for Undergraduate Women in Physics at Argonne National Laboratory
