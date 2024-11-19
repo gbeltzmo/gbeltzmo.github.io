@@ -14,6 +14,9 @@ toc: true
 
 # Teaching
 
+* ["Gradient Descent Optimization"](https://colab.research.google.com/drive/12XGZm7ouYnv_EUn9IRp_lM8QPxWUjeiH?usp=sharing)
+
+
 ### Conference for Undergraduate Women in Physics at Argonne National Laboratory
 * Python Workshop (January 2023)
   * Developed and led two python workshops during the conference; taught students Python basics, introduced them to the concept of galaxy redshift surveys and galaxy clustering, and helped them work through a Python notebook in which they loaded, plotted, and analyzed real data from SDSS
