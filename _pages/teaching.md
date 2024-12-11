@@ -14,8 +14,6 @@ toc: true
 
 # Teaching
 
-* ["Gradient Descent Optimization"](https://colab.research.google.com/drive/1PYwfMG3lJo7-hjKpTj8FGy09MFMCBeNZ?usp=sharing)
-
 
 ### Conference for Undergraduate Women in Physics at Argonne National Laboratory
 * Python Workshop (January 2023)
