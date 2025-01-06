@@ -38,5 +38,7 @@ In [Beltz-Mohrmann et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210
 
 I have also contributed to the following public codes:
 
+* [ACM] (https://github.com/epaillas/acm): a common analysis pipeline for Alternative Clustering Methods in DESI
+* [DiffOpt] (https://diffopt.readthedocs.io/en/latest/): a collection of tools that are useful for parallelizable optimization of large-parameter, memory-intensive, and/or differentiable models implemented in Jax
 * [Corrfunc](https://github.com/manodeep/Corrfunc): a suite of codes to calculate correlation functions and other clustering statistics for simulated and observed galaxies
 * [diffmah](https://github.com/ArgonneCPAC/diffmah): a differentiable model for the mass assembly history of individual and populations of dark matter halos

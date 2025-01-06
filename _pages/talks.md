@@ -15,7 +15,8 @@ header:
 
 ### 2024
 
-* Invited Expert, Cosmology Talks miniworkshop: Cosmology Beyond 2pt Statistics, August 2024
+* "A Differentiable Forward Model of the Galaxy-Halo Connection," University of Arizona, October 2024
+* Invited Expert, [Cosmology Talks miniworkshop: Cosmology Beyond 2pt Statistics] (https://inspirehep.net/seminars/2811625), August 2024
 * "A New Forward Model of the Galaxy-Halo Connection," DHWFEST, University of Utah, July 2024
 * "Updates on the DESI Emulator Mock Challenge - Alternative Clustering Methods," Summer DESI Meeting, Marseille, France, July 2024
 * ["Simulation-based Forward Modeling of Cross-Survey Cross-Correlations with Diffsky,"](https://events.gwdg.de/event/573/contributions/2070/attachments/733/1320/GillianBeltz-Mohrmann_Diffsky.pdf) New Strategies for Extracting Cosmology from Galaxy Surveys, Sexten Center for Astrophysics, July 2024
