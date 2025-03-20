@@ -13,23 +13,6 @@ header:
 
 I have been participating in various science outreach activities since I started college in 2012. Not only do I find it fun and rewarding to share my love of science with people, but I also think outreach is vitally important for making science accessible to the public and for building a more diverse and inclusive STEM community.
 
-### Selected Outreach
-* Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
-  * Panelist on a Women in STEM panel
-* Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
-  * Led a python workshop; participated in Q&A sessions, panel discussions, and networking opportunities with students  
-* AAS Congressional Visits Day (virtual) (September 2020)
-  * Scheduled meetings with my state representatives and spoke with them to advocate for the importance of funding scientific research
-* Science Day with Nashville Girl Scouts (March 2019)
-  * Built bottle rockets and explained my job as an astronomer 
-* Meet the Astronomer Night at Dyer Observatory (October 2018)
-  * Gave a public talk about the standard model of cosmology, how we model galaxy clustering, and what galaxy clustering can tell us about the nature of dark matter and dark energy
-* Vanderbilt Student Volunteers for Science (Fall 2016)
-  * Visited middle school classes throughout the semester to teach a variety of chemistry and physics lessons and give fun science demonstrations
-* Whitin Observatory Volunteer, Wellesley College (Fall 2012 - Spring 2016)
-  * Organized, advertised, and led public nights several times per semester; gave observatory tours, telescope demonstrations, and public talks to guests of all ages
-
-
 ### In the media:
 
 Blog post: [At the Big Reveal: DESI’s December 2024 Unblinding Results](https://www.desi.lbl.gov/2025/03/19/at-the-big-reveal-desis-december-2024-unblinding-results/)
@@ -37,3 +20,13 @@ Blog post: [At the Big Reveal: DESI’s December 2024 Unblinding Results](https:
 Podcast Episode: [Particle Mysteries: The Coldest Case - "Chasing Shadows"](https://www.interactions.org/dark-matter-day/podcast)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPJeqmQtc_M?si=92EmhgkaKgNcKQIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Selected Outreach
+* Science Careers in Search of Women Event at Argonne National Laboratory (March 2023)
+* Conference for Undergraduate Women in Physics at Argonne National Laboratory (January 2023)
+* AAS Congressional Visits Day (virtual) (September 2020)
+* Science Day with Nashville Girl Scouts (March 2019)
+* Meet the Astronomer Night at Dyer Observatory (October 2018)
+* Vanderbilt Student Volunteers for Science (Fall 2016)
+* Whitin Observatory Volunteer, Wellesley College (Fall 2012 - Spring 2016)
