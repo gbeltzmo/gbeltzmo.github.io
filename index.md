@@ -9,14 +9,14 @@ header:
 
 # About Me
 
-I am a postdoctoral fellow in the Cosmological Physics and Advanced Computing Group at Argonne National Laboratory. My research lies at the intersection of large-scale structure, galaxy formation, and cosmology, and is driven by the following questions:
+I am an Assistant Professor in the Department of Physics and the Program in Statistical & Data Sciences at Smith College. I recently completed a postdoctoral position in the Cosmological Physics and Advanced Computing Group at Argonne National Laboratory. My research lies at the intersection of large-scale structure, galaxy formation, and cosmology, and is driven by the following questions:
 
 * What are the properties of dark energy and dark matter?
 * Does the standard model of cosmology accurately predict galaxy clustering on small scales?
 * What is the relationship between galaxies and the overdense regions of dark matter (known as dark matter halos) in which they live?
 * How can we take full advantage of the wealth of information contained in current and future galaxy surveys?
 
-I am currently working on building a new model of the galaxy-halo connection, which we can use to make predictions for observables such as galaxy clustering. Comparing our predictions to observations of the real Universe allows us to improve our understanding of the growth of structure in the Universe and ultimately constrain our cosmological model. In my work I utilize a combination of simulations, forward modeling techniques, and data from spectroscopic redshift surveys. I am an active member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/) and have also worked extensively with data from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/). I am also a member of the [LSST Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/). 
+My research involves building new models of the galaxy-halo connection, which we can use to make predictions for observables such as galaxy clustering. Comparing our predictions to observations of the real Universe allows us to improve our understanding of the growth of structure in the Universe and ultimately constrain our cosmological model. In my work I utilize a combination of simulations, forward modeling techniques, and data from spectroscopic redshift surveys. I am an active member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/) and have also worked extensively with data from the [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/). I am also a member of the [LSST Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/). 
 
 I care about inclusion and equity, both in academia and more broadly, and I am committed to improving inclusiveness and equity in my circles of influence.
 

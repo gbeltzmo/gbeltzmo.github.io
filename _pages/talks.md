@@ -15,6 +15,7 @@ header:
 
 ### 2024
 
+* "Modeling the Galaxy-Halo Connection of LBGs," Cosmology from Lyman-Break Galaxies, University of Toronto, May 2025
 * "Lessons Learned from the DESI Emulator Mock Challenge," "Simulation-based Forward Modeling with Diffsky," ELG Mock Challenge Workshop, Donostia International Physics Center, February 2025
 * "A Differentiable Forward Model of the Galaxy-Halo Connection," University of Arizona, October 2024
 * Invited Expert, [Cosmology Talks miniworkshop: Cosmology Beyond 2pt Statistics](https://inspirehep.net/seminars/2811625), August 2024
