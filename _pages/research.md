@@ -22,7 +22,7 @@ My thesis work focused on accurately modeling the small-scale clustering of gala
 
 # First and Second Author Publications
 
-Total citations: 101
+Total citations: 105
 
 8. [Illuminating the Physics of Dark Energy with the Discovery Simulations](https://ui.adsabs.harvard.edu/abs/2025arXiv250305947B/abstract), __Beltz-Mohrmann, G. D.__, Pope, A., et al., 2025, submitted to the _Open Journal of Astrophysics_, arXiv:2503.05947
 7. [DiffOpt: Parallel optimization of Jax models](https://joss.theoj.org/papers/10.21105/joss.07522), Pearl, A. N., __Beltz-Mohrmann, G. D.__, Hearin, A. P., 2024, _Journal of Open Source Software_, 9(104), 7522
