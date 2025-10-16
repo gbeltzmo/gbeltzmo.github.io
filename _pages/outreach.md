@@ -7,7 +7,7 @@ toc: True
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/telescope.jpg
+  overlay_image: /_images/stars.jpg
   overlay_filter: 0.3
 ---
 
