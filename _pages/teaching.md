@@ -7,7 +7,7 @@ toc: true
 toc_label: Content
 toc_sticky: true
 header:
-  overlay_image: /_images/smith-college.jpg
+  overlay_image: /_images/smith.jpg
   overlay_filter: 0.5
 toc: true
 ---
