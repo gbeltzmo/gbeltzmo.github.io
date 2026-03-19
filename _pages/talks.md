@@ -13,10 +13,18 @@ header:
 
 # Recent Talks
 
-### 2024
+### 2026
+
+* "Improving Models of Small-Scale Clustering to Constrain Cosmology," Five College Astronomy Department Colloquium, UMass Amherst, February 2026
+* "The DESI Emulator Mock Challenge," Mock NYC, January 2026
+
+### 2025
 
 * "Modeling the Galaxy-Halo Connection of LBGs," Cosmology from Lyman-Break Galaxies, University of Toronto, May 2025
-* "Lessons Learned from the DESI Emulator Mock Challenge," "Simulation-based Forward Modeling with Diffsky," ELG Mock Challenge Workshop, Donostia International Physics Center, February 2025
+* "Lessons Learned from the DESI Emulator Mock Challenge," and "Simulation-based Forward Modeling with Diffsky," ELG Mock Challenge Workshop, Donostia International Physics Center, February 2025
+
+### 2024
+
 * "A Differentiable Forward Model of the Galaxy-Halo Connection," University of Arizona, October 2024
 * Invited Expert, [Cosmology Talks miniworkshop: Cosmology Beyond 2pt Statistics](https://inspirehep.net/seminars/2811625), August 2024
 * "A New Forward Model of the Galaxy-Halo Connection," DHWFEST, University of Utah, July 2024

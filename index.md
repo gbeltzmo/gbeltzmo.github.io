@@ -33,5 +33,6 @@ Gadget is also a scientist! He is a (remote) participant in the [Gifted Dog Rese
 * [A citizen science model turns anecdotes into evidence by revealing similar characteristics among Gifted Word Learner dogs](https://www.nature.com/articles/s41598-023-47864-5)
 * [Dogs extend verbal labels for functional classification of objects](https://www.cell.com/current-biology/fulltext/S0960-9822(25)01079-6)
 * [Sound quality impacts dogs’ ability to recognize and respond to playback words](https://www.nature.com/articles/s41598-025-96824-8?fbclid=IwY2xjawN_ERFleHRuA2FlbQIxMABicmlkETFQOFFhM3BaeUQxYk5xZnkxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrc63trVFYXvGt_XZH4Ed7kBaI5OCXoi3lB8UR55voxBpQWhNrbiJ7MmgmOz_aem_iI2a6VEHLYke2HxV0-_wrw)
+* [Dogs with a large vocabulary of object labels learn new labels by overhearing like 1.5-year-old infants](https://www.science.org/doi/10.1126/science.adq5474)
 
 Please reach out if you'd like to discuss anything from cosmology to Roger Federer to Mahler to dog cognition!
