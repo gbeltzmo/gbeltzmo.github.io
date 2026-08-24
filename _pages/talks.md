@@ -15,6 +15,8 @@ header:
 
 ### 2026
 
+* "Modeling the Galaxy-Halo Connection with Diffsky," New Frontiers in Cosmology, A Coruna, Spain, August 2026
+* "Using Alternative Clustering Methods to Constrain Cosmology," Summer DESI Meeting, Durham, UK, July 2026
 * "Improving Models of Small-Scale Clustering to Constrain Cosmology," Five College Astronomy Department Colloquium, UMass Amherst, February 2026
 * "The DESI Emulator Mock Challenge," Mock NYC, January 2026
 
